@@ -3,3 +3,9 @@ SAPUI5 web application which takes the location name as user input (Eg: New York
 
 1) Weather information for London:
 ![alt text](https://github.com/ashwinvenkateshprabhu/WeatherApplication/blob/master/images/Screen%20Shot%202017-07-17%20at%2017.32.11.png)
+
+2) Weather information for Bangalore:
+![alt text](https://github.com/ashwinvenkateshprabhu/WeatherApplication/blob/master/images/Screen%20Shot%202017-07-17%20at%2017.31.34.png)
+
+3) Weather information for Charlotte:
+![alt text](https://github.com/ashwinvenkateshprabhu/WeatherApplication/blob/master/images/Screen%20Shot%202017-07-17%20at%2017.30.59.png)
